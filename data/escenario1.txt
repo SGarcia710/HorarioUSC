@@ -1,0 +1,6 @@
+5
+Matematicas,7,true,3,1
+Sistemas,9,true,3,2
+Quimica,11,true,2,3
+Calculo,1,false,3,4
+Constitucion,3,false,2,5

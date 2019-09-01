@@ -1,0 +1,6 @@
+5
+Fisica,2,false,3,2
+Quimica,7,true,2,1
+Filosofia,9,false,1,3
+Cultura,8,false,1,5
+Deporte,11,true,2,6
